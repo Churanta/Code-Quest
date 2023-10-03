@@ -535,7 +535,7 @@ p {
   background-repeat: repeat-x;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  animation: animate 150s linear infinite;
+  animation: animate 100s linear infinite;
 }
 
 @keyframes animate {
