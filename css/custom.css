@@ -293,6 +293,9 @@ section {
   z-index: 10000
 }
 
+
+
+
 /* ---- Mobile only styling ---- */
 @media (max-width: 991.98px) {
   .navbar-toggler {
